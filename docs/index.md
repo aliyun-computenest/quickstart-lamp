@@ -2,7 +2,7 @@
 
 ## 概述
 
-LAMP 是一种经典的开源软件堆栈，用于构建动态网站和 Web 应用程序。LAMP 代表 Linux、Apache、MySQL（或 MariaDB）和 PHP。这一组合在开发和部署 Web 解决方案时非常流行，并具有高效、可靠和可扩展的特点。
+LAMP 是一种经典的开源软件堆栈，用于构建动态网站和 Web 应用程序。LAMP 代表 Linux、Apache、MySQL（或 MariaDB）和 PHP。这一组合在开发和部署 Web 解决方案时非常流行，并具有高效、可靠和可扩展的特点。详情请查看[LAMP官网](https://www.lampchina.net/)。
 
 本服务支持在已有的ECS实例（Linux）上部署和新建ECS实例（Linux）部署。
 
